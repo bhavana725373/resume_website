@@ -1,21 +1,24 @@
 body {
+    text-align: center;
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background: #f9f9f9;
+    background-color: darkslategray;
     color: #333;
     margin: 0;
     padding: 0;
 }
 
 header {
+    
     background: #007BFF;
-    color: white;
+    color:aqua;
     padding: 10px 0;
     text-align: center;
 }
 
 header nav a {
-    color: white;
+    text-align: center;
+    color:coral;
     margin: 0 10px;
     text-decoration: none;
 }
@@ -25,6 +28,7 @@ header nav a:hover {
 }
 
 main {
+    text-align: center;
     padding: 20px;
     background: white;
     margin: 20px auto;
