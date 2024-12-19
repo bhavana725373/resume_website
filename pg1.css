@@ -4,7 +4,7 @@ body {
     line-height: 1.6;
     background-color: darkslategray;
     color: #333;
-    margin: 0;
+    margin: 50%;
     padding: 0;
 }
 
@@ -19,7 +19,7 @@ header {
 header nav a {
     text-align: center;
     color:coral;
-    margin: 0 10px;
+    margin: 0 50px;
     text-decoration: none;
 }
 
@@ -39,7 +39,7 @@ main {
 footer {
     text-align: center;
     background: #333;
-    color: white;
+    color: blue;
     padding: 10px 0;
     position: fixed;
     bottom: 0;
